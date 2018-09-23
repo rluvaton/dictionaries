@@ -58,6 +58,3 @@ function createDic(data) {
           });
   });
 }
-createDic(['שלום']);
-
-console.log(dic);
